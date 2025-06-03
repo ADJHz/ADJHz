@@ -8,15 +8,11 @@
 <body class="bg-gray-100 flex items-center justify-center min-h-screen">
   <div class="bg-white shadow-lg rounded-2xl p-10 text-center max-w-md w-full">
     <h1 class="text-4xl font-bold text-gray-800 mb-4">¡Bienvenido!</h1>
-    - 👋 Hi, I’m Adolfo De Jesus (@ADJHz)
-- 👀 I’m interested in development of apps 
-- 🌱 I’m currently learning of optimals manege of jquery and consultins for conections more agiles
-- 💞️ I'm looking to collaborate on companies of technology's for significant contributions
-- 📫 How to reach me email adolfodjhz@gmail.com 
-<!---
-ADJHz/ADJHz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    <p> - 👋 Hi, I’m Adolfo De Jesus (@ADJHz)</p>
+ <p>- 👀 I’m interested in development of apps</p>  
+ <p>- 🌱 I’m currently learning of optimals manege of jquery and consultins for conections more agiles</p>  
+ <p>- 💞️ I'm looking to collaborate on companies of technology's for significant contributions</p>  
+ <p>- 📫 How to reach me email adolfodjhz@gmail.com</p>  
     <p class="text-gray-600 text-lg">Gracias por visitar nuestra página.</p>
   </div>
 </body>
