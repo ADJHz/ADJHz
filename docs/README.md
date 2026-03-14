@@ -11,7 +11,7 @@
     <p> - 👋 Hi, I’m Adolfo De Jesus (@ADJHz)</p>
  <p>- 👀 I’m interested in development of apps</p>  
  <p>- 🌱 I’m currently learning of optimals manege of jquery and consultins for conections more agiles</p>  
- <p>- 💞️ I'm looking to collaborate on companies of technology's for significant contributions</p>  
+ <p>- 🤖 I'm looking to collaborate on companies of technology's for significant contributions</p>  
  <p>- 📫 How to reach me email adolfodjhz@gmail.com</p>  
     <p class="text-gray-600 text-lg">Gracias por visitar nuestra página.</p>
   </div>
